@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/7342020/IdeaProjects/Register/src/test/java/core/verify_alert_windows_frames.xml"><classes/></test><test verbose="2" preserve-order="true" name="C:/Users/7342020/IdeaProjects/Register/src/test/java/core/verify_home_test.xml"><classes/></test></suite>
