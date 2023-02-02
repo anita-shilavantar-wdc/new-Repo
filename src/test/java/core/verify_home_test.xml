@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="com.wdc.qa.tests.HomeTest">
+        <classes>
+            <class name="com.wdc.qa.Tests.HomeTest">
+                <methods>
+                    <include name="EnterData"/>
+                    <include name="RadioButton"/>
+                    <include name="ScrollDown"/>
+                    <include name="CheckBox"/>
+                    <include name="SelectLanguage"/>
+                    <include name="SelectSkill"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
